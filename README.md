@@ -1,6 +1,3 @@
-===============================================================
-Configured By: Freddie Bravo
-
 https://mikrotik.com/consultants/asia/philippines
 
 Certified Mikrotik Consultant
@@ -10,4 +7,3 @@ Fluke Networks Certified Cabling Test Technician Copper/Fiber
 
 Facebook:
 https://www.facebook.com/FreddieBravoMikrotik
-=============================================================== 
